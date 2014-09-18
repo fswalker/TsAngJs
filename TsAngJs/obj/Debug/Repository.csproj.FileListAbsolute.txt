@@ -1,0 +1,5 @@
+C:\Users\mgrygierzec.CORP\Documents\GitHub\TsAngJs\TsAngJs\bin\Debug\TsAngJs.dll
+C:\Users\mgrygierzec.CORP\Documents\GitHub\TsAngJs\TsAngJs\bin\Debug\TsAngJs.pdb
+C:\Users\mgrygierzec.CORP\Documents\GitHub\TsAngJs\TsAngJs\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\mgrygierzec.CORP\Documents\GitHub\TsAngJs\TsAngJs\obj\Debug\TsAngJs.dll
+C:\Users\mgrygierzec.CORP\Documents\GitHub\TsAngJs\TsAngJs\obj\Debug\TsAngJs.pdb

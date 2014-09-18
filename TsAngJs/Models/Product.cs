@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TsAngJs
 {
-    public class Class1
+    public class Product : Entity
     {
+        public string Name { get; set; }
+        public decimal Price { get; set; }
     }
 }
